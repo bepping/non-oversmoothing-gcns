@@ -23,20 +23,20 @@ This was not possible for the experiments with the cora dataset, longer runtime 
 The parameters to recreate the experiments from the paper are given in the respective figure captions.
 The scripts reproduce the experiments from the paper as follows:
 
-* complete_graph $\rarr$ Figure 1
-    * phase_diagram.py $\rarr$ panel a), b)
-    * node_dist_prediction.py $\rarr$ panel c)
-* cora $\rarr$ Figure 4, Figure 7
-    * find_transition.py $\rarr$ fig 7
-    * performance.py $\rarr$ fig 4
-* Kipf_Welling_shift_operator $\rarr$ Figure 6
-    * weight_variance_dependence.py $\rarr$ fig 6
-* non_oversmoothing_csbm $\rarr$ Figure 2
-    * condition_for_non_oversmoothing.py $\rarr$ panel a), b), c)
-    * class_distance.py $\rarr$ panel d)
-* performance_on_csbms $\rarr$ Figure 3, Figure 5
-    * gaussian_process_GCN.py $\rarr$ fig 3 panel a), b), c)
-    * finite_size_GCN.py $\rarr$ fig 3 panel d), fig 5
+* complete_graph $\rightarrow$ Figure 1
+    * phase_diagram.py $\rightarrow$ panel a), b)
+    * node_dist_prediction.py $\rightarrow$ panel c)
+* cora $\rightarrow$ Figure 4, Figure 7
+    * find_transition.py $\rightarrow$ fig 7
+    * performance.py $\rightarrow$ fig 4
+* Kipf_Welling_shift_operator $\rightarrow$ Figure 6
+    * weight_variance_dependence.py $\rightarrow$ fig 6
+* non_oversmoothing_csbm $\rightarrow$ Figure 2
+    * condition_for_non_oversmoothing.py $\rightarrow$ panel a), b), c)
+    * class_distance.py $\rightarrow$ panel d)
+* performance_on_csbms $\rightarrow$ Figure 3, Figure 5
+    * gaussian_process_GCN.py $\rightarrow$ fig 3 panel a), b), c)
+    * finite_size_GCN.py $\rightarrow$ fig 3 panel d), fig 5
 
 ## Data
 
