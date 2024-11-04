@@ -40,7 +40,7 @@ The scripts reproduce the experiments from the paper as follows:
 
 ## Data
 
-For our experiment in TODO, we load the Cora citation network.
+For our experiment in figures 4 and 7, we load the Cora citation network.
 We use the loading method implemented by Kipf and Welling for their paper [Graph Convolutional Network](http://arxiv.org/abs/1609.02907), ICLR 2017 (published under MIT license, Copyright (c) 2016 Thomas Kipf).
 The original datasets can be downloaded from http://www.cs.umd.edu/~sen/lbc-proj/LBC.html.
 The split into training and test data taken from https://github.com/kimiyoung/planetoid (Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov, [Revisiting Semi-Supervised Learning with Graph Embeddings](https://arxiv.org/abs/1603.08861), ICML 2016).
