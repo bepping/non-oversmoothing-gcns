@@ -2,7 +2,7 @@
 
 This repository provides the implementation for the experiments conducted in our paper:
  
-Bastian Epping, Alexandre René, Moritz Helias, Michael T. Schaub [Graph Neural Networks Do Not Always Oversmooth]() (NeurIPS 2024)
+Bastian Epping, Alexandre René, Moritz Helias, Michael T. Schaub [Graph Neural Networks Do Not Always Oversmooth](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5623c35f3ab5e2c72aeb3abce27dc28f-Abstract-Conference.html) (NeurIPS 2024)
 
 ## Installation
 
