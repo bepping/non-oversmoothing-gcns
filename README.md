@@ -2,7 +2,7 @@
 
 This repository provides the implementation for the experiments conducted in our paper:
  
-Bastian Epping, Alexandre René, Moritz Helias, Michael T. Schaub [Graph Neural Networks Do Not Always Oversmooth](https://arxiv.org/abs/2406.02269) (arXiv preprint 2024)
+Bastian Epping, Alexandre René, Moritz Helias, Michael T. Schaub [Graph Neural Networks Do Not Always Oversmooth]() (NeurIPS 2024)
 
 ## Installation
 
@@ -51,11 +51,16 @@ The split into training and test data taken from https://github.com/kimiyoung/pl
 Please cite our paper if you use our results or this code in your own work:
 
 ```
-@article{epping2024graph,
-  title={Graph Neural Networks Do Not Always Oversmooth},
-  author={Epping, Bastian and Ren{\'e}, Alexandre and Helias, Moritz and Schaub, Michael T},
-  journal={arXiv preprint arXiv:2406.02269},
-  year={2024}
+@inproceedings{NEURIPS2024_5623c35f,
+ author = {Epping, Bastian and Ren\'{e}, Alexandre and Helias, Moritz and Schaub, Michael T.},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {48164--48188},
+ publisher = {Curran Associates, Inc.},
+ title = {Graph Neural Networks Do Not Always Oversmooth},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/5623c35f3ab5e2c72aeb3abce27dc28f-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
 ```
 
